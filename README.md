@@ -1,4 +1,4 @@
-# rust_wasm_dev
+# rust wasm development
 
 # install
     npm install
